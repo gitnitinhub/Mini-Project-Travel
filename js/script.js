@@ -51,3 +51,6 @@ function send(){
     window.alert("We will contact you soon");
     
 }
+
+
+// plan to add log in and sign up button instead of search bar 
