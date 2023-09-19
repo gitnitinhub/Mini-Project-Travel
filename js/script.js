@@ -53,6 +53,4 @@ function send(){
 }
 
 
-// plan to add log in and sign up button instead of search bar 
-// .git repo error coming 
-// cannot run php contact us 
+
